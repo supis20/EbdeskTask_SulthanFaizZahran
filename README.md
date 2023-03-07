@@ -23,7 +23,8 @@ mungkin dengan sistem products and sales yang ada pada dunia nyata.
 
 ![Task2_SulthanFaiz](https://user-images.githubusercontent.com/86909749/223286998-8f25b313-510a-4b80-8242-939090321182.jpg)
 
-        Gambar diatas merupakan flowchart untuk sebuah program CRUD sederhana terkait Minimarket products dan sales
+        Gambar diatas merupakan flowchart untuk sebuah program CRUD sederhana terkait Minimarket products 
+        dan sales
 
 3. Melakukan Web Scraping pada salah satu website e-commerce (tokopedia, shopee, bukalapak, dll) menggunakan bahasa 
 pemrograman python (diperbolehkan menggunakan API dan/atau framework)
