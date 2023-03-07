@@ -29,7 +29,8 @@ mungkin dengan sistem products and sales yang ada pada dunia nyata.
 3. Melakukan Web Scraping pada salah satu website e-commerce (tokopedia, shopee, bukalapak, dll) menggunakan bahasa 
 pemrograman python (diperbolehkan menggunakan API dan/atau framework)
 
-        Saya sudah upload file bernama Task3_SulthanFaizZahran yang berisi program Web Scrapping untuk E-Commerce Tokopedia
+        Saya sudah upload file bernama Task3_SulthanFaizZahran yang berisi program Web Scrapping untuk 
+        E-Commerce Tokopedia
         
         Untuk menjalankan program nya bisa dilakukan langkah - langkah berikut:
         1. Download file Task3_SulthanFaizZahran.py
