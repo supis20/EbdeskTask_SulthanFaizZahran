@@ -9,7 +9,8 @@
         
         Untuk menjalankan program nya bisa dilakukan langkah - langkah berikut:
         1. Download file Task1_SulthanFaizZahran.py 
-        2. Open file di Visual Code Studio atau Intellij atau menggunakan code editor yang bapak/ibu biasa pakai
+        2. Open file di Visual Code Studio atau Intellij atau menggunakan code editor yang bapak/ibu biasa 
+           pakai
         3. Run file
         4. Output akan menampilkan "Input berapa banyak angka yang ingin dihasilkan dalam deret Fibonacci:", 
            input berapa banyak deret Fibonacci yang ingin ditampilkan. Seperti pada soal yaitu 10 deret 
@@ -34,12 +35,13 @@ pemrograman python (diperbolehkan menggunakan API dan/atau framework)
         
         Untuk menjalankan program nya bisa dilakukan langkah - langkah berikut:
         1. Download file Task3_SulthanFaizZahran.py
-        2. Open file di Visual Code Studio atau Intellij atau menggunakan code editor yang bapak/ibu biasa pakai
+        2. Open file di Visual Code Studio atau Intellij atau menggunakan code editor yang bapak/ibu biasa 
+           pakai
         3. Run file
-        4. Output akan menampilkan "silahkan masukkan product yang ingin anda cari :". Masukkan produk apa yang
-           ingin dicari misalnya Mouse Gaming, maka akan keluar data - data tentang semua produk Mouse Gaming
-           yang berupa id produk, nama produk, harga produk, deskripsi produk, nama penjual, rating produk, 
-           serta jumlah produk yang telah terjual berapa.
+        4. Output akan menampilkan "silahkan masukkan product yang ingin anda cari :". Masukkan produk 
+           apa yan ingin dicari misalnya Mouse Gaming, maka akan keluar data - data tentang semua produk 
+           Mouse Gaming yang berupa id produk, nama produk, harga produk, deskripsi produk, nama penjual, 
+           rating produk, serta jumlah produk yang telah terjual berapa.
         5. Jika pencarian selesai dan ingin melihat lebih jelas, maka bisa dilakukan copy hasil pencarian 
         dan dipaste di JSON Editor dan diubah kedalam bentuk Tree.
            
