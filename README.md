@@ -12,18 +12,21 @@
         2. Open file di Visual Code Studio atau Intellij atau menggunakan code editor yang bapak/ibu biasa pakai
         3. Run file
         4. Output akan menampilkan "Input berapa banyak angka yang ingin dihasilkan dalam deret Fibonacci:", 
-           input berapa banyak deret Fibonacci yang ingin ditampilkan. Seperti pada soal yaitu 10 deret Fibonacci
+           input berapa banyak deret Fibonacci yang ingin ditampilkan. Seperti pada soal yaitu 10 deret 
+           Fibonacci
         5. Scanner akan membaca input yang telah dimasukkan dan menampilkan hasil nya.
         
         Terima kasih ^-^
 
-2. Membuat flowchart sebuah program CRUD sederhana terkait Minimarket products and sales. Diusahakan sesuai mungkin dengan sistem products and sales yang ada pada dunia nyata.
+2. Membuat flowchart sebuah program CRUD sederhana terkait Minimarket products and sales. Diusahakan sesuai 
+mungkin dengan sistem products and sales yang ada pada dunia nyata.
 
 ![Task2_SulthanFaiz](https://user-images.githubusercontent.com/86909749/223286998-8f25b313-510a-4b80-8242-939090321182.jpg)
 
         Gambar diatas merupakan flowchart untuk sebuah program CRUD sederhana terkait Minimarket products dan sales
 
-3. Melakukan Web Scraping pada salah satu website e-commerce (tokopedia, shopee, bukalapak, dll) menggunakan bahasa pemrograman python (diperbolehkan menggunakan API dan/atau framework)
+3. Melakukan Web Scraping pada salah satu website e-commerce (tokopedia, shopee, bukalapak, dll) menggunakan bahasa 
+pemrograman python (diperbolehkan menggunakan API dan/atau framework)
 
         Saya sudah upload file bernama Task3_SulthanFaizZahran yang berisi program Web Scrapping untuk E-Commerce Tokopedia
         
@@ -35,8 +38,8 @@
            ingin dicari misalnya Mouse Gaming, maka akan keluar data - data tentang semua produk Mouse Gaming
            yang berupa id produk, nama produk, harga produk, deskripsi produk, nama penjual, rating produk, 
            serta jumlah produk yang telah terjual berapa.
-        5. Jika pencarian selesai dan ingin melihat lebih jelas, maka bisa dilakukan copy hasil pencarian dan dipaste
-           di JSON Editor dan diubah kedalam bentuk Tree.
+        5. Jika pencarian selesai dan ingin melihat lebih jelas, maka bisa dilakukan copy hasil pencarian 
+        dan dipaste di JSON Editor dan diubah kedalam bentuk Tree.
            
         Saya juga sudah membuat pengkategorian pada data yang akan ditampilkan seperti kategori Layak dibeli, 
         Perlu dipertimbangkan, dan Tidak layak dibeli.
