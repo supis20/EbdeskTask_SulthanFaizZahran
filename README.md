@@ -45,8 +45,8 @@ pemrograman python (diperbolehkan menggunakan API dan/atau framework)
         5. Jika pencarian selesai dan ingin melihat lebih jelas, maka bisa dilakukan copy hasil pencarian 
         dan dipaste di JSON Editor dan diubah kedalam bentuk Tree.
            
-        Saya juga sudah membuat pengkategorian pada data yang akan ditampilkan seperti kategori Layak dibeli, 
-        Perlu dipertimbangkan, dan Tidak layak dibeli.
+        Saya juga sudah membuat pengkategorian pada data yang akan ditampilkan seperti kategori Layak 
+        dibeli, Perlu dipertimbangkan, dan Tidak layak dibeli.
         
         Terima Kasih ^-^
 
