@@ -61,4 +61,8 @@ pemrograman python (diperbolehkan menggunakan API dan/atau framework)
         
         Terima Kasih ^-^
         
-# Berikut adalah jawaban dari Task yang diberikan oleh Bapak/Ibu HRD dan User, terima kasih atas kesempatan yang diberikan dan saya berharap Bapak/Ibu HRD dan User bisa menerima saya diperusahaan Ebdesk.
+Berikut adalah jawaban dari Task yang diberikan oleh Bapak/Ibu HRD dan User, terima kasih atas kesempatan yang diberikan dan saya berharap Bapak/Ibu HRD dan User bisa menerima saya diperusahaan Ebdesk.
+
+![Picsart_23-03-07_08-37-42-865 (2)](https://user-images.githubusercontent.com/86909749/223297466-11180379-a2b0-41a5-81c8-738f92ecf84b.jpg)
+
+Sulthan Faiz Zahran
