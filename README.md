@@ -2,6 +2,10 @@
 
 1. Membuat flowchart sebuah program fibonacci dan buatlah program berdasarkan flowchart yang telah dibuat tersebut menggunakan bahasa pemrograman python.
 
+        Pola bilangan fibonacci adalah suatu susunan angka dengan nilai angka berikutnya diperoleh dari 
+        hasil menambahkan kedua angka sebelumnya secara berturut-turut. Contoh dari pola bilangan fibonacci 
+        adalah 0,1,1,2,3,5,8, dan seterusnya.
+
 ![Task1_Fibonacci](https://user-images.githubusercontent.com/86909749/223284061-f1723cf8-2598-4019-a810-249c44eeafe1.png)
         
         Gambar diatas merupakan flowchart untuk program fibonacci yang saya buat
