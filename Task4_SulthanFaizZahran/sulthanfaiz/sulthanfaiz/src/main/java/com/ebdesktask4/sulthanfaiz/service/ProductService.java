@@ -32,22 +32,14 @@ public class ProductService {
 
     @Transactional
     public String updateProduct(Product product){
+        String response = "";
         if (productRepository.existsById(product.getId_Produk())){
-            try
-            {
-                Optional<Product> products = productRepository.findById(product.getId_Produk());
-                products.stream().forEach(s -> {
-                    Product productToBeUpdate = productRepository.findById(s.getId_Produk()).get();
-                    productToBeUpdate.setId_Produk(product.getId_Produk());
-                    productRepository.save(productToBeUpdate);
-                });
-                return "Product updated.";
-            }catch (Exception e){
-                throw e;
-            }
+            productRepository.save(product);
+            response = "Update success";
         }else {
-            return "Product does not exists in the database.";
+            response =  "Product does not exists in the database.";
         }
+        return response;
     }
 
     @Transactional
